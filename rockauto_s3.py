@@ -16,7 +16,7 @@ output_csv_file = "part_numbers_with_prices.csv"
 cleaned_csv_file = "cleaned_part_numbers_with_prices.csv"
 
 SF_USER = 'brandon'
-SF_PASSWORD = '1234!@#$qwerQWER'
+SF_PASSWORD = ''
 SF_ACCOUNT = 'HC60396.us-east-2.aws'
 SF_WAREHOUSE = 'PIPELINE'
 SF_ROLE = 'ACCOUNTADMIN'
